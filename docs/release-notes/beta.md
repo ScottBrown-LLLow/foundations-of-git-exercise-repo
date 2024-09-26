@@ -45,6 +45,27 @@ og_image: /img/GitKrakenClient-Hero.png
 *   The client will not crash when there are unicode characters in the file path name of the repository to be opened.
 *   Fixed a small leak with fetching from prolonged use.
 
+*   With the new resizable graph, now getting two honorable mentions here, when there are a large number of branches on the repository we have the ability to show an accurate graph, and you can always control how much you want to see.
+*   Failing on _Open Merge Tool_? Not anymore it's not. We made some changes when the merge tool is not found and when there is no common ancestor of the commits.
+*   The merge conflict panel will open accordingly when applying a stash which conflicts with changes.
+*   We'll present a message when there are failures on remote actions.
+*   The client will not crash when there are unicode characters in the file path name of the repository to be opened.
+*   Fixed a small leak with fetching from prolonged use.
+
+*   With the new resizable graph, now getting two honorable mentions here, when there are a large number of branches on the repository we have the ability to show an accurate graph, and you can always control how much you want to see.
+*   Failing on _Open Merge Tool_? Not anymore it's not. We made some changes when the merge tool is not found and when there is no common ancestor of the commits.
+*   The merge conflict panel will open accordingly when applying a stash which conflicts with changes.
+*   We'll present a message when there are failures on remote actions.
+*   The client will not crash when there are unicode characters in the file path name of the repository to be opened.
+*   Fixed a small leak with fetching from prolonged use.
+
+*   With the new resizable graph, now getting two honorable mentions here, when there are a large number of branches on the repository we have the ability to show an accurate graph, and you can always control how much you want to see.
+*   Failing on _Open Merge Tool_? Not anymore it's not. We made some changes when the merge tool is not found and when there is no common ancestor of the commits.
+*   The merge conflict panel will open accordingly when applying a stash which conflicts with changes.
+*   We'll present a message when there are failures on remote actions.
+*   The client will not crash when there are unicode characters in the file path name of the repository to be opened.
+*   Fixed a small leak with fetching from prolonged use.
+
 ***
 ## 0.8.3
 
