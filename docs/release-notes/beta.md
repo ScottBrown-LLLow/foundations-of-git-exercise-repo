@@ -31,12 +31,28 @@ og_image: /img/GitKrakenClient-Hero.png
 
 <h3>Improved</h3>
 
-*   Welcome the **resizable graph**, a valuable addition on the interface side! Drag the vertical bar to obtain precisely how much of the graph you want to see. This also allows you to have a completely collapsed and minified graph at will!
-*   New buttons for _Mark Resolved_, _Mark Conflicted_, and _Open Merge Tool_ for improvements in the _Merge Conflict_ panel to get you in the flow and resolving conflicts faster and more efficiently.
-*   The _Amend_ checkbox for commits looked bad at one point and should not look bad. We adjusted the style to give our seal of quality.
-*   In File View, the styling of the preview when hovering over commit in condensed graph has been updated to be up to spec, including font and colors.
-
 <h3>Fixed</h3>
+
+*   With the new resizable graph, now getting two honorable mentions here, when there are a large number of branches on the repository we have the ability to show an accurate graph, and you can always control how much you want to see.
+*   Failing on _Open Merge Tool_? Not anymore it's not. We made some changes when the merge tool is not found and when there is no common ancestor of the commits.
+*   The merge conflict panel will open accordingly when applying a stash which conflicts with changes.
+*   We'll present a message when there are failures on remote actions.
+*   The client will not crash when there are unicode characters in the file path name of the repository to be opened.
+*   Fixed a small leak with fetching from prolonged use.
+
+*   With the new resizable graph, now getting two honorable mentions here, when there are a large number of branches on the repository we have the ability to show an accurate graph, and you can always control how much you want to see.
+*   Failing on _Open Merge Tool_? Not anymore it's not. We made some changes when the merge tool is not found and when there is no common ancestor of the commits.
+*   The merge conflict panel will open accordingly when applying a stash which conflicts with changes.
+*   We'll present a message when there are failures on remote actions.
+*   The client will not crash when there are unicode characters in the file path name of the repository to be opened.
+*   Fixed a small leak with fetching from prolonged use.
+
+*   With the new resizable graph, now getting two honorable mentions here, when there are a large number of branches on the repository we have the ability to show an accurate graph, and you can always control how much you want to see.
+*   Failing on _Open Merge Tool_? Not anymore it's not. We made some changes when the merge tool is not found and when there is no common ancestor of the commits.
+*   The merge conflict panel will open accordingly when applying a stash which conflicts with changes.
+*   We'll present a message when there are failures on remote actions.
+*   The client will not crash when there are unicode characters in the file path name of the repository to be opened.
+*   Fixed a small leak with fetching from prolonged use.
 
 *   With the new resizable graph, now getting two honorable mentions here, when there are a large number of branches on the repository we have the ability to show an accurate graph, and you can always control how much you want to see.
 *   Failing on _Open Merge Tool_? Not anymore it's not. We made some changes when the merge tool is not found and when there is no common ancestor of the commits.

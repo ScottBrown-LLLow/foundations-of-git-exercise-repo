@@ -1,6 +1,6 @@
 ---
 
-title: GitKraken Client Release Notes
+title: GitKraken Client Release Notes Updated by Scott
 description: View a history of the new features and fixes in GitKraken Client's Version 8.
 og_image: /img/GitKrakenClient-Hero.png
 
@@ -16,6 +16,7 @@ Check out our [GitKraken Roadmap](https://www.gitkraken.com/git-client/roadmap) 
 <a id="v8-5-0"></a>
 ## Version 8.5.0
 
+Behold the evolution of GitKraken Client!
 ### Tuesday, May 17th, 2022
 
 <div class='embed-container embed-container--16-9'>
@@ -67,6 +68,7 @@ _An elegant Git client for a more civilized age._
     - "Take current", which applies the changes from the branch currently checked out to resolve the conflict.
     - "Take incoming", which applies the changes from the incoming branch to resolve the conflict.
 
+Behold the evolution of GitKraken Client!
 
 ### Bug Fixes 🐛
 
@@ -100,6 +102,7 @@ _Bugs…You will never find a more wretched hive of scum and villainy._
 </div>
 
 
+Behold the evolution of GitKraken Client!
 _We want to help teams cut out all the jibber-jabber when working with pull requests across multiple repos. Get ready for GitKraken Client v8.4, a release that will have you saying "I love it when a pull request comes together."_
 
 ### New ✨
@@ -137,7 +140,7 @@ _Shut up, bugs!_
 - Filtering Autocomplete suggestions by name will work as expected.
 - After selecting between multiple Autocomplete suggestions that have the same prefix, further suggestions will disappear as expected.
 - Users will no longer be allowed to create Workspaces for repositories on unsupported versions of GitLab Self-Managed services.
-- Bitbucket Server users will now see the branches correctly populated when creating Pull Requests.
+- Bitbucket Server users will now see the populated when creating Pull Requests.
 
 
 
