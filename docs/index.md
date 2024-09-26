@@ -1,6 +1,6 @@
 ---
 
-title: GitKraken Support
+title: GitKraken Support Testing Commits
 description: Here you'll find answers to FAQs, documentation and tutorials. Please contact the friendly GitKraken Customer Success team if you still need help!
 og_image: /img/GitKrakenClient-Hero.png
 
