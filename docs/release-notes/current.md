@@ -145,6 +145,7 @@ _Shut up, bugs!_
 
 <a id="v8-3-3"></a>
 ## Version 8.3.3
+### Thursday, September 26, 2024
 
 ### Wednesday, March 16th, 2022
 
