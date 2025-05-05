@@ -1,6 +1,6 @@
 ﻿
 cd "$Env:USERPROFILE\Documents\GitHub\posh-git"
-
+#
 # Add Git and utilities to PATH
 
 $Env:Path = "$Env:ProgramFiles\Git\bin" + ";" + $Env:Path
