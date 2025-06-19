@@ -1,7 +1,7 @@
 [revert]
-    dpr = true
-    dproj = true
-    skin = true
-    mainmenu = true
-    menucontrol = true
-    udmresources = true
+    dpr=true
+    dproj=true
+    skin=true
+    mainmenu=true
+    menucontrol=true
+    udmresources=true
